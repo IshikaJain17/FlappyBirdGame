@@ -1,6 +1,22 @@
 # Flappy Bird Game
 
+![Welcome Screen](Screenshot 2025-04-05 052922.png)
+*Welcome screen with animated text*
+
+![Gameplay](Screenshot 2025-04-05 054544.png)  
+*In-game screenshot showing the bird and pipes*
+
+![Game Over](Screenshot 2025-04-05 054350.png)  
+*Game over screen showing final score*
+
 A Python implementation of the classic Flappy Bird game using Pygame.
+
+## Essential Game Files
+- `main.py` - Main game logic
+- `gallery/sprites/bird.png` - Player character sprite
+- `gallery/sprites/pipe.jpg` - Pipe obstacles
+- `gallery/sprites/bg.jpg` - Background image
+- `gallery/audio/` - Sound effects folder
 
 ## Recent Updates
 
@@ -19,8 +35,6 @@ A Python implementation of the classic Flappy Bird game using Pygame.
 - Proper game restart functionality
 - Enhanced collision detection
 - Improved scoring system
-
-![Game Screenshot](assets/sprites/message.jpg)
 
 ## Features
 - Classic Flappy Bird gameplay mechanics
